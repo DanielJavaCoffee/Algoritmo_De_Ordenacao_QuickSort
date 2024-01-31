@@ -1,4 +1,4 @@
-# Algoritmo De Ordenaçao QuickSort
+# Algoritmo De Ordenaçao QuickSort.
 
 O algoritmo QuickSort é um eficiente algoritmo de ordenação que segue a abordagem "divide e conquista" para ordenar uma lista de elementos. Ele foi desenvolvido por Tony Hoare em 1959 e é amplamente utilizado devido à sua eficiência e velocidade em muitos casos.
 
